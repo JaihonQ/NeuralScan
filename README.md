@@ -31,7 +31,3 @@ NeuralScan is a multi-purpose intelligent medical analysis platform designed for
 
 ## Disclaimer
 This project is intended for research and educational purposes only. Not for clinical or medical diagnosis use.
-
-## Screenshots
-![Dashboard Light Mode](images/dashboard_light.png)
-![Dashboard Dark Mode](images/dashboard_dark.png)
